@@ -1,1 +1,1 @@
-console.log("Project started");
+console.log("projectt is started js part is rest ");
